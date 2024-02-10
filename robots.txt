@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+Sitemap: https://suryavidyalaya.com/envato/sitemap.xml
+
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK
